@@ -1,0 +1,25 @@
+table,
+th,
+td,
+td,
+caption {
+    border: solid 1px black;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.4rem;
+
+}
+
+body {
+    min-height: 100vh;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    border-left: 1px solid #333;
+    border-right: 1px solid #333;
+}
+
+a:hover {
+    color: blue;
+    font-size: large
+}
